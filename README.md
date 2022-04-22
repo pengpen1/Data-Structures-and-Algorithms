@@ -1,5 +1,2 @@
-# hell-world
-my first warehouse
-@[TOC](first readme)
-## is vary happly
-~~刚刚~~
+## 第一个存储库 ##
+用js描述数据结构于算法，来感受算法之美吧！
